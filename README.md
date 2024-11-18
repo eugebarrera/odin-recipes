@@ -1,2 +1,2 @@
 # odin-recipes
-This is a simple HTML project that showcases three different recipes. The index.html page serves as the homepage, which contains links to three individual recipe pages. Each recipe includes ingredients, instructions, and an image.
+This is a simple HTML and CSS project that showcases three different recipes. The index.html page serves as the homepage, which contains links to three individual recipe pages. Each recipe includes ingredients, instructions, and an image.
