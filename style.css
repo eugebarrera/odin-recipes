@@ -1,0 +1,18 @@
+* {
+  background-color: lightskyblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title {
+  text-align: center;
+  color: yellow;
+}
+
+#recipes-list {
+  font-size: 20px;
+  color: yellow;
+}
+
+#recipes-list a {
+  color: white;
+}
